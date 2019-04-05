@@ -50,8 +50,8 @@ $(document).ready(function() {
 
 ## Setup/Installation Requirements
 
--   Please clone from the Github repo
--   Click on the link provided
+-   Please clone from the Github repo https://bwhellar.github.io/portfolioproject3/
+-   Input numbers into the input box
 
 This app requires the internet as it uses HTMl and CSS and Javascript.
 
@@ -61,7 +61,7 @@ No known bugs
 
 ## Support and contact details
 
-If you have any issues please contact Brendan Hellar at bwhellar@gmail.com or Crystal Fecteau at Crystal_Fecteau@ymail.com
+If you have any issues please contact Brendan Hellar at bwhellar@gmail.com
 
 ## Technologies Used
 
@@ -71,4 +71,4 @@ HTML and CSS and Javascript
 
 MIT
 
-Copyright (c) 2019 **Brendan Hellar & Crystal Fecteau**
+Copyright (c) 2019 **Brendan Hellar**
