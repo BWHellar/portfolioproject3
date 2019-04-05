@@ -1,0 +1,26 @@
+input#num {
+  text-align: center;
+}
+body {
+  text-align: center;
+  margin: 20%;
+  background-image:  url("../img/hal.png"), url("../img/space.jpg");
+  background-repeat: no-repeat, repeat;
+  background-position: center, center;
+  background-size: contain, auto;
+  overflow: hidden;
+}
+
+#result {
+  text-align: center;
+  margin: 10%;
+  color: white;
+  overflow: hidden;
+
+}
+h1 {
+  color: white;
+}
+html {
+  overflow: hidden;
+}
