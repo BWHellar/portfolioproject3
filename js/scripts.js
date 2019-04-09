@@ -18,12 +18,12 @@ $(document).ready(function() {
       var repoNum = ["1","2","3"]
       var wordArray = ["Beep!", "Boop!", "I'm sorry, Dave. I'm afraid I can't do that"];
       for(var i = 0; i <= newNum; i++) {
-        if(i.toString().split('').includes(repoNum[3])) {
-          priorNum.push(wordArray[3]);
-        }else if(i.toString().split('').includes(repoNum[2])) {
+        if(i.toString().split('').includes(repoNum[2])) {
           priorNum.push(wordArray[2]);
         }else if(i.toString().split('').includes(repoNum[1])) {
           priorNum.push(wordArray[1]);
+        }else if(i.toString().split('').includes(repoNum[0])) {
+          priorNum.push(wordArray[0]);
         }else priorNum.push(i);
       }
       return (priorNum + ",");
